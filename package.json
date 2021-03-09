@@ -1,0 +1,22 @@
+{
+  "name": "aula-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oculoscegos/aula-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oculoscegos/aula-git/issues"
+  },
+  "homepage": "https://github.com/oculoscegos/aula-git#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
